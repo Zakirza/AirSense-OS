@@ -1,16 +1,3 @@
-Great! I will generate **all of these for you** in one go:
-
-✔ **Full Professional README**
-✔ **Feature Table (Gesture + Voice Ops)**
-✔ **Architecture Diagram (ASCII + Image-ready)**
-✔ **Resume-ready Project Description**
-✔ **Optional: PDF version (if you want)**
-
----
-
-# 📘 **FULL PROFESSIONAL README.md**
-
-*(Perfect for GitHub / Portfolio / Resume Projects)*
 
 ---
 
@@ -146,19 +133,3 @@ python main.py
 ### 4. Use gestures or voice commands.
 
 ---
-
-# 📄 **Resume-Ready Project Description**
-
-### **ZeroTouch AI – Touchless Gesture & Voice Interaction System**
-
-Designed an AI-powered human-computer interaction system enabling complete touchless control of a PC.
-Implemented **real-time gesture recognition** using MediaPipe and OpenCV to perform cursor movement, clicking, drag-and-drop, and scrolling through 21 hand landmarks.
-
-Integrated a **voice assistant** capable of executing system commands, browsing, media playback, Wikipedia search, weather updates, WhatsApp messaging, and persistent memory storage.
-
-Developed a **multithreaded architecture** with thread-safe shared state management, enabling gesture and voice modules to run concurrently with seamless toggling. Ensured smooth, low-latency performance using debouncing, smoothing filters, and optimized computation.
-
-**Tech:** Python, MediaPipe, OpenCV, PyAutoGUI, SpeechRecognition, TTS (pyttsx3), Multithreading.
-
----
-
