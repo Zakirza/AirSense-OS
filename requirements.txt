@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+pyautogui
+numpy
+SpeechRecognition
+pyttsx3
+wikipedia
+pywhatkit
+pyjokes
+requests
+googletrans==4.0.0-rc1   # optional; may fail sometimes. Replace with deep-translator if needed.
